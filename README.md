@@ -48,3 +48,8 @@ To ensure reliable analysis, extreme values were **identified and capped**:
 | **Data Processing**      | Pandas, NumPy |
 | **Visualization**        | Matplotlib |
 | **Development Tools**    | Jupyter Notebook, GitHub |
+
+**Conclusion**  
+
+Our Exploratory Data Analysis (EDA) on the **Hotel Booking dataset** has enhanced data integrity by addressing missing values, removing duplicates, and capping extreme outliers. The analysis revealed that most bookings occur within **365 days**, with extreme lead times adjusted to maintain data reliability. Average Daily Rate (ADR) fluctuations were controlled by capping values at **$500**, ensuring accurate revenue insights. Additionally, stay durations were refined by capping total nights at **14**, aligning with realistic booking behaviors. These preprocessing steps have improved data quality, making the dataset well-structured for **business analytics, revenue forecasting, and cancellation pattern analysis**.
+
