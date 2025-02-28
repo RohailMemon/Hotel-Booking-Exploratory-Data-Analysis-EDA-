@@ -1,0 +1,5 @@
+pandas
+numpy
+matplotlib
+from IPython.display import display
+jupyter
