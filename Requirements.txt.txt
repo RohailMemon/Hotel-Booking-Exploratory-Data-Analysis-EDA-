@@ -1,5 +1,6 @@
 pandas
 numpy
 matplotlib
+jupyter
 from IPython.display import display
 jupyter
